@@ -20,6 +20,7 @@ Esta é uma ferramenta H5P de realce de sintaxe, criada para programadores, dese
 
 1. Perceba que ele lista várias opções de conteúdos H5P, porém, o 'CodeHighlighter' não está listado. Portanto, vamos adicioná-lo aqui: "H5P.CodeHighlighter 1.0", identificando seu 'machinename' e sua versão. Ambas as informações são obtidas do arquivo library.json no diretório do 'CodeHighlighter'. Após isso, integre o novo 'Column' em seu ambiente.
 2. Agora, ao criar um 'Column', o nosso 'Code Highlighter' estará disponível. Caso você queira utilizar em um componente diferente que não seja o 'Column', basta seguir o mesmo procedimento, adaptando-o conforme sua necessidade.
+![Untitled](README-imgs/content.png)
 
 **Guia Passo a Passo para Compactar e Integrar Bibliotecas H5P no Moodle:**
 
@@ -34,4 +35,3 @@ Este guia oferece instruções detalhadas sobre como compactar uma biblioteca pa
 7. **Mensagem de Confirmação:** Uma mensagem de sucesso será exibida, confirmando a integração bem-sucedida da biblioteca.
 
 Obs.: Alguns conteúdos podem dar erro pois existem eles possuem pre dependencias, caso voce tente enviar esse conteudo antes de enviar sua dependencias, uma mensagem de erro será apresentada. Então faça o upload das pre dependencias primeiro.
-![Untitled](README-imgs/content.png)
