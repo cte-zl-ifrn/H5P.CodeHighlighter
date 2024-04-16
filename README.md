@@ -6,8 +6,8 @@ This is an H5P syntax highlighting tool designed for programmers, avid developer
 
 **How to integrate this library into my environment?**
 1. Ensure that the dependencies of 'CodeHighlighter' are already included in your environment: 'CodeMirror' and 'CodeEditor'. Follow the order, as 'CodeEditor' requires 'CodeMirror' to be already included to function. Here are the compressed files:
-    1. CodeMirror: [Clique aqui](https://github.com/cte-zl-ifrn/H5P.PreDependencias/releases/download/1.0.0/codemirror.h5p)
-    2. CodeEditor: [Clique aqui](https://github.com/cte-zl-ifrn/H5P.PreDependencias/releases/download/1.0.0/codeeditor.h5p)
+    1. CodeMirror: [Clique aqui](https://github.com/cte-zl-ifrn/H5P-CodeMirror/releases/download/1.0.0/codemirror.h5p)
+    2. CodeEditor: [Clique aqui](https://github.com/cte-zl-ifrn/H5PEditor.CodeEditor/releases/download/1.0.0/codeeditor.h5p)
     3. CodeHighlighter: [Clique aqui](https://github.com/cte-zl-ifrn/H5P.CodeHighlighter/releases/download/1.0.3/codehighlighter.h5p)
 2. After downloading the above files, insert them into your environment in the same previous order.
 3. Após inserir todas as bibliotecas no seu ambiente, você já poderá criar um conteúdo do tipo ‘CodeHighlighter’
@@ -15,7 +15,7 @@ This is an H5P syntax highlighting tool designed for programmers, avid developer
 **Using the TextEditor component within another h5p content:**
 
 1. Let's say you want to use the TextEditor within a Column content, which the Interactive Book also uses the Column to create its contents. By default, Column will not show our TextEditor as an option.
-2. Para isto, basta baixar o arquivo h5p do column em: [column](https://github.com/cte-zl-ifrn/H5P.PreDependencias/releases/download/1.0.0/column.h5p) e inserir o arquivo compactado no seu ambiente.
+2. Para isto, basta baixar o arquivo h5p do column em: [column](https://github.com/cte-zl-ifrn/h5p-column/releases/download/1.0.0/column.h5p) e inserir o arquivo compactado no seu ambiente.
 
 **Step-by-Step Guide to Compress and Integrate H5P Libraries in Moodle:**
 
